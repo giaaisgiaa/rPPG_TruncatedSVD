@@ -10,6 +10,6 @@ How to run the 'SVD_vs_TSVD' notebook?
 
 5) Now that you have pyVH'R installed, you can download the "Notebook_SVD_vs_TSVD" folder and move all the content of it into the "Notebooks" folder of the already downloaded pyVHR repository.
 6) Navigate in the pyVHR folder, and replace the 'methods.py' original file under 'pyVHR\BVP\methods.py' with the one provided by the current repository (still named 'methods.py'), containing the new 'cpu_LGI_TSVD' rPPG algorithm. 
-7) Run the 'SVD_vs_TSVD' notebook under the "Notebooks" folder.
+7) Run the 'SVD_vs_TSVD.ipynb' notebook under the "Notebooks" folder.
 
 ## SVD vs TSVD
